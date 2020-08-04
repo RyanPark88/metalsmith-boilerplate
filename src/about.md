@@ -5,8 +5,10 @@ layout: about.hbs
 menu-order: 2
 ---
 
-# About me
+# About Us
 
-## Zapping good looks ⚡
+## SouthChain Digital Asset Network ⛓️
 
-And other silly information.
+DeFi intergration with Lending services, providing liquidity, Payment services, Protocol Governance
+
+Blockchain Business services, tracking managment, SME lending

@@ -10,7 +10,7 @@ menu-order: 1
 
 **Ethereum powers the new Global Decentralized Economy, and unlocks powerful tools**
 
-**SouthChain Digital Assets provides services in the broad Ethereum Ecosystem
+**SouthChain Digital Assets provides services in the broad Ethereum Ecosystem**
 
 **Decentralized Finance with open, permissionless, innovative Dapps**
 

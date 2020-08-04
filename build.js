@@ -8,7 +8,7 @@ const sitemap = require('metalsmith-sitemap');
 const handlebars = require('handlebars');
 const moment = require('moment');
 
-Handlebars.registerHelper('is', function (value, test, options) {
+handlebars.registerHelper('is', function (value, test, options) {
     if (value === test) {
         return options.fn(this);
     } else {
@@ -16,7 +16,7 @@ Handlebars.registerHelper('is', function (value, test, options) {
     }
 });
 
-Handlebars.registerHelper('date', function (date) {
+handlebars.registerHelper('date', function (date) {
     return moment(date, "MM-DD-YYYY").format('Do MMM \'YY');
 });
 

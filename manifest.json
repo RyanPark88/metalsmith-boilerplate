@@ -44,7 +44,7 @@
       "type": "image/png"
     },
     {
-      "src": "assets/ico/icons/icon-512x512.png",
+      "src": "assets/ico/icons/default.png",
       "sizes": "512x512",
       "type": "image/png"
     }
